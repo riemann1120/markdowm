@@ -14,3 +14,9 @@ Ordered list:
 3. no. 3
 
 ![GitHub Logo](https://github.com/images/README.svg)
+
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
