@@ -21,5 +21,6 @@ Ordered list:
    * Item 3b
 
 >[GitHub Logo](/images/logo.png)
+
 >Format: [Alt Text](url)
 >block quotes
