@@ -12,7 +12,7 @@ Ordered list:
 2. no 2
 3. no 3
 
-![GitHub Logo](/images/
+![GitHub Logo](/images/logo.png)
 
 1. Item 1
 2. Item 2
