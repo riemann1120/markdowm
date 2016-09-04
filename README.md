@@ -47,7 +47,7 @@ Content in the first column | Content in the second column
 
 This is my table:
 
-#NO. | Item | Price
+NO. | Item | Price
 ---- | ---- | ------
 123 | PC Mother Board | $149
 124 | CPU | $179
