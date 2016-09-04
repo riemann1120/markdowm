@@ -25,3 +25,11 @@ Ordered list:
 >Format: [Alt Text](url)
 
 >block  `<quotes>`  inline code.
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
