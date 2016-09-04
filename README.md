@@ -13,4 +13,4 @@ Ordered list:
    * item 2
 3. no. 3
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://github.com/images/logo.png)
